@@ -1,4 +1,4 @@
-## Hi, I'm Emma!
+# Hi, I'm Emma!
 
 - :computer: I'm currently working on my portfolio
 - :microscope: I'm learning more about Next.js
@@ -7,12 +7,12 @@
 - :trophy: My 2022 goals: To start my front-end developer career | To deepen my understanding of React.js and Next.js
 - :smile: Fun fact: I love to do cartwheels. It makes me happy
 
-### You can find me on:
+## You can find me on:
 
 - <a href="https://www.linkedin.com/in/emma-tonnessen/">LinkedIn</a>
 - <a href="https://emmatonnessen.com">My website</a>
 
-### Languages and tools:
+## Languages and tools:
 
 - HTML
 - CSS
