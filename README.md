@@ -9,9 +9,8 @@
 
 ### You can find me on:
 
-- <a target="_blank" href="https://www.linkedin.com/in/emma-tonnessen/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn
-    </a>
+- <a target="_blank" href="https://www.linkedin.com/in/emma-tonnessen/">LinkedIn
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 - My website
 
 ### Languages and tools:
