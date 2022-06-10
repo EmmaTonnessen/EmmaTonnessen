@@ -9,16 +9,14 @@
 
 ### You can find me on:
 
-- LinkedIn<a target="_blank" href="https://www.linkedin.com/in/emma-tonnessen/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-- My website
+- <a href="https://www.linkedin.com/in/emma-tonnessen/">LinkedIn</a>
+- <a href="https://emmatonnessen.com">My website</a>
 
 ### Languages and tools:
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 - React
 - Next
 - SASS
