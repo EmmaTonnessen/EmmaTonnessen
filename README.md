@@ -1,8 +1,8 @@
 # Hi, I'm Emma!
 
-- :computer: I'm currently working on my portfolio
+- :computer: I'm currently working on a website for musician Ingrid Sorheim
 - :microscope: I'm learning more about Next.js
-- :eyes: I'm looking for a front-end developer job in Oslo, Grimstad, Arendal, or Kristiansand
+- :eyes: I'm looking for a front-end developer job in Oslo, Grimstad, Arendal, or Kristiansand and freelance work
 - :book: My favorite learning resource at the moment is <a href="https://www.youtube.com/kepowob"> Kevin Powell's youtube channel </a>
 - :trophy: My 2022 goals: To start my front-end developer career | To deepen my understanding of React.js and Next.js
 - :smile: Fun fact: I love to do cartwheels. It makes me happy
